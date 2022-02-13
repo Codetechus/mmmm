@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE14A1d871aD9020bb2d46fdA262A4b2c7c833a11",
+  "SCAN_LINK": "https://stardust-explorer.metis.io/address/0xE14A1d871aD9020bb2d46fdA262A4b2c7c833a11",
+  "NETWORK": {
+    "NAME": "STARDUST",
+    "SYMBOL": "Metis",
+    "ID": 588
+  },
+  "NFT_NAME": "Metis Cats",
+  "SYMBOL": "MCATS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metiscats",
+  "SHOW_BACKGROUND": true
+}
